@@ -67,7 +67,7 @@ By configuring AWS CLI with the provided IAM credentials and running ScoutSuite,
 ---
 
 ## **References (Harvard Anglia style)**
-- NCC Group (2024) *ScoutSuite: Multi-cloud security auditing tool*. GitHub. Available at: https://github.com/nccgroup/ScoutSuite (Accessed: 8 September 2025).
-- Amazon Web Services (2025) *AWS Command Line Interface*. Available at: https://aws.amazon.com/cli/ (Accessed: 8 September 2025).
-- YouTube (2024) *AWS CLI Setup Tutorial*. Available at: https://youtu.be/jCHOsMPbcV0 (Accessed: 8 September 2025).
+- NCC Group, 2024. ScoutSuite: Multi-cloud security auditing tool. [GitHub] Available at: <https://github.com/nccgroup/ScoutSuite> [Accessed 8 September 2025].
+- Amazon Web Services, 2025. AWS Command Line Interface. [online] Available at: <https://aws.amazon.com/cli/> [Accessed 8 September 2025].
+- YouTube, 2024. AWS CLI Setup Tutorial. [video online] Available at: <https://youtu.be/jCHOsMPbcV0> [Accessed 8 September 2025].
 
